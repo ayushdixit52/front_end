@@ -1,0 +1,23 @@
+#signal{
+    height: 200px;
+    width: 70px;
+    border: 2px;
+}
+.inner{
+    height: 50px;
+    width: 50px;
+    border: 2px;
+    margin: 10px;
+    border: 50%;
+    border-radius: 50%;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+
